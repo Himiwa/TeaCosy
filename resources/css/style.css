@@ -8,7 +8,7 @@ body {
   align-items:center;
 }
 
-/* Header */
+/* HEADER*/
 header {
   position: fixed;
   z-index: 10;
@@ -39,10 +39,17 @@ nav {
   color: seashell;
   text-decoration: none;
 }
-
-
-/* Main*/
+/* MAIN*/
+.mission {
+  position: relative;
+  top: 69px;
+  display: flex;
+  background-image: url(../images/img-mission-background.png);
+  width: 1200px;
+  height: 700px;
+}
 /* Mission*/
+
 /* Tea of the Month */
 /* Location*/
-/* Footer */
+/* FOOTER */
