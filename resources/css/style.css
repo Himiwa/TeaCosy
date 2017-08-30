@@ -96,10 +96,10 @@ main {
   justify-content: center;
 }
 
-.featured-teas { /*This would need two different contianers */
+.featured-teas { /*This would need two different contianers so two different formats? */
 width: 1000px;
 display: flex;
-justify-content: space-around; /*if two different containers, for the 1st one it should be space-between?*/
+justify-content: space-around;
 flex-wrap: wrap;
 }
 
